@@ -24,7 +24,7 @@ There are multiple ways:
 
 -   Run locally on computer:
     -   <a href="https://sourceforge.net/projects/luabinaries/files/5.4.2/Tools%20Executables/lua-5.4.2_Win64_bin.zip/download">Download LUA</a>
-    -   Extract folder in folder
+    -   Extract files in folder
     -   Put `my program file` into this folder
     -   Open terminal into this folder, better use `cmd`
     -   Launch code by `lua54 spaghetti.lua`
