@@ -30,5 +30,6 @@ There are multiple ways:
     -   Launch code by `lua54 spaghetti.lua`
 -   Run Online:
     -   You can run it on Replit <a href="https://replit.com/languages/lua">Link to page</a>
+    -   There can be problems in other kind of tools
     -   Paste code
     -   Run code
