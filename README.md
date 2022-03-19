@@ -15,8 +15,9 @@ There is no restrictions, you can be creative as much as you want to! 🍝
 // 3) Be creative! An interesting approach in your recipe will affect your place the most.
 // 4) Any programming language can be used if it has a console.
 ```
-
-<a href="https://join.datorium.eu/discord">Organized by Datorium</a>
+#### Organized by Datorium
++ <a href="https://join.datorium.eu/discord">Join Datorium Discord Server</a>
++ <a href="https://datorium.eu/">Visit Datorium website</a>
 
 ## Instructions to run this code:
 
